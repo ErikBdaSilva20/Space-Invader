@@ -3,8 +3,8 @@ import Projectile from './Projectiles.js'
 
 class Invader {
   constructor(position, velocity) {
-    this.width = 37
-    this.height = 50
+    this.width = 50
+    this.height = 37
     this.velocity = 1.5
 
     this.position = position
